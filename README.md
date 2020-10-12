@@ -3,7 +3,7 @@
 
 This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms. A separate category is for separate projects.
 
-## :mag_right: 1. Data Wrangling
+## :&#129529;: 1. Data Wrangling
 
 Проекты посвященные предварительной обработке данных для анализа 
 
