@@ -6,6 +6,8 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 ## 1. Data Wrangling
 Проекты посвященные предварительной обработке данных для анализа 
 
+[Project 1 - Immigration of Canada](https://github.com/rttrif/Trifonov.portfolio.github.io/tree/master/1.%20Data%20Wrangling/Project%201%20-%20Immigration%20of%20Canada)
+
 ## 2. Data Visualizations and Storytelling
 Проекты посвященные визуализации и извлечению знаний из данных
 
