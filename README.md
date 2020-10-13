@@ -15,14 +15,14 @@
 ## &#128269; 3. Exploratory Data Analysis
 Проекты посвященные разведочному анализу данных 
 
-### Exploratory Data Analysis
+### &#128294; Exploratory Data Analysis
 
 ### &#8986; Time Series Exploratory Data Analysis 
 
-## 4. Feature engineering
+## &#129516; 4. Feature engineering
 Проекты посвященные проектированию признаков для машинного обучения 
 
-## 5. Machine Learning
+## U+1F916 5. Machine Learning
 Проекты посвященные машинному обучению 
 
 ## 6. Deep Learning
