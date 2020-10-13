@@ -8,7 +8,7 @@
 
 [**Пространство мышления Data Science**](https://www.notion.so/DATA-SCIENCE-e46df8e6700b480bb80f7f6f2eec4be0)
 
-[**Собственные стандарты и шаблоны для проектов **](https://github.com/rttrif/-Template-)
+[**Собственные стандарты и шаблоны для проектов**](https://github.com/rttrif/-Template-)
 
 ## &#129529; 1. Data Wrangling
 
