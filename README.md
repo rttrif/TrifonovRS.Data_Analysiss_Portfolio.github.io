@@ -22,7 +22,7 @@
 ## &#129516; 4. Feature engineering
 Проекты посвященные проектированию признаков для машинного обучения 
 
-## U+1F916 5. Machine Learning
+## U+1F916; 5. Machine Learning
 Проекты посвященные машинному обучению 
 
 ## 6. Deep Learning
