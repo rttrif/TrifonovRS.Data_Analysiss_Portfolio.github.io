@@ -27,7 +27,9 @@
 Проекты посвященные проектированию признаков для машинного обучения 
 
 ## &#129302; 5. Machine Learning
-Проекты посвященные машинному обучению 
+Проекты посвященные машинному обучению
+
+[Project 1 - Credit scoring](https://github.com/rttrif/Trifonov.portfolio.github.io/tree/master/5.%20Machine%20Learning/Project%201%20-%20Credit%20scoring)
 
 ## &#129504; 6. Deep Learning
 Проекты посвященные глубокому изучению
