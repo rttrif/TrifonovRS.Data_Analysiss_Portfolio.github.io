@@ -1,7 +1,7 @@
-# Data Science Portfolio
+# &#128188; Data Science Portfolio
 
 
-This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms. A separate category is for separate projects.
+Это портфолио представляет собой сборник проектов, которые я создал для анализа данных или для изучения алгоритмов машинного обучения. Отдельная категория предназначена для отдельных видов и типов  проектов.
 
 ## &#129529; 1. Data Wrangling
 
@@ -9,11 +9,15 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 
 [Project 1 - Immigration of Canada](https://github.com/rttrif/Trifonov.portfolio.github.io/tree/master/1.%20Data%20Wrangling/Project%201%20-%20Immigration%20of%20Canada)
 
-## 2. Data Visualizations and Storytelling
+## &#128250; 2. Data Visualizations and Storytelling
 Проекты посвященные визуализации и извлечению знаний из данных
 
-## 3. Exploratory Data Analysis
+## &#128269; 3. Exploratory Data Analysis
 Проекты посвященные разведочному анализу данных 
+
+### Exploratory Data Analysis
+
+### &#8986; Time Series Exploratory Data Analysis 
 
 ## 4. Feature engineering
 Проекты посвященные проектированию признаков для машинного обучения 
