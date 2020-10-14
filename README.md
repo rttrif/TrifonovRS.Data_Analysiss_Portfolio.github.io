@@ -17,6 +17,8 @@
 
 [Project 1 - Immigration of Canada](https://github.com/rttrif/Trifonov.portfolio.github.io/tree/master/1.%20Data%20Wrangling/Project%201%20-%20Immigration%20of%20Canada)
 
+[Project 2 - Coursera Course Dataset](https://github.com/rttrif/Trifonov.portfolio.github.io/tree/master/1.%20Data%20Wrangling/Project%202%20-%20Coursera%20Course%20Dataset)
+
 ## &#128250; 2. Data Visualizations and Storytelling
 Проекты посвященные визуализации и извлечению знаний из данных
 
