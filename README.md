@@ -8,7 +8,7 @@
 
 [**Пространство мышления Data Science**](https://www.notion.so/DATA-SCIENCE-e46df8e6700b480bb80f7f6f2eec4be0)
 
-[*Набор собственных шалонов для целостного подхода к анализу данных и машинному обучению**](https://github.com/rttrif/-Template-/tree/master/Holistic%20approach)
+[**Набор собственных шалонов для целостного подхода к анализу данных и машинному обучению**](https://github.com/rttrif/-Template-/tree/master/Holistic%20approach)
 
 ## &#129529; 1. Data Wrangling
 
