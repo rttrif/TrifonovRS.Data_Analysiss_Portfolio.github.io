@@ -34,6 +34,8 @@
 
 [Project 2 - Analysis of power consumption](https://github.com/rttrif/Trifonov.portfolio.github.io/tree/master/3.%20Exploratory%20Data%20Analysis/Time%20Series%20Analysis/Project%202%20-%20Analysis%20of%20power%20consumption) 
 
+[Project 3 - Data Scientist Job Market in the U.S.(https://github.com/rttrif/Trifonov.portfolio.github.io/tree/master/1.%20Data%20Wrangling/Project%203%20-%20Data%20Scientist%20Job%20Market%20in%20the%20U.S.)
+
 ## &#129516; 4. Feature engineering
 Проекты посвященные проектированию признаков для машинного обучения 
 
