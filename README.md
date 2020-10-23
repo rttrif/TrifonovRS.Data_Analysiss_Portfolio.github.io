@@ -28,13 +28,7 @@
 [Project 5 - Depression](https://github.com/rttrif/Trifonov.portfolio.github.io/tree/master/1.%20Data%20Wrangling/Project%205%20-%20Depression)
 
 
-
-
-## &#128250; 2. Data Visualizations and Storytelling
-Проекты посвященные визуализации и извлечению знаний из данных
-
-
-## &#128269; 3. Exploratory Data Analysis
+## &#128269; 2. Exploratory Data Analysis
 Проекты посвященные разведочному анализу данных 
 
 ### &#128294; Exploratory Data Analysis
@@ -45,13 +39,13 @@
 
 [Project 2 - Analysis of power consumption](https://github.com/rttrif/Trifonov.portfolio.github.io/tree/master/3.%20Exploratory%20Data%20Analysis/Time%20Series%20Analysis/Project%202%20-%20Analysis%20of%20power%20consumption) 
 
-## &#129516; 4. Feature engineering
+## &#129516; 3. Feature engineering
 Проекты посвященные проектированию признаков для машинного обучения 
 
-## &#129302; 5. Machine Learning
+## &#129302; 4. Machine Learning
 Проекты посвященные машинному обучению
 
 [Project 1 - Credit scoring](https://github.com/rttrif/Trifonov.portfolio.github.io/tree/master/5.%20Machine%20Learning/Project%201%20-%20Credit%20scoring)
 
-## &#129504; 6. Deep Learning
+## &#129504; 5. Deep Learning
 Проекты посвященные глубокому изучению
