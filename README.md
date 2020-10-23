@@ -10,10 +10,12 @@
 
 [**Набор собственных шалонов для целостного подхода к анализу данных и машинному обучению**](https://github.com/rttrif/-Template-/tree/master/Holistic%20approach)
 
+
+
 ## &#129529; 1. Data Wrangling
 
 
-Проекты посвященные предварительной обработке данных для анализа 
+Проекты посвященные подготовке данных для анализа 
 
 [Project 1 - Immigration of Canada](https://github.com/rttrif/Trifonov.portfolio.github.io/tree/master/1.%20Data%20Wrangling/Project%201%20-%20Immigration%20of%20Canada)
 
