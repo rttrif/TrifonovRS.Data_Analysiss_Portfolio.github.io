@@ -21,6 +21,8 @@
 
 [Project 3 - Data Scientist Job Market in the U.S.](https://github.com/rttrif/Trifonov.portfolio.github.io/tree/master/1.%20Data%20Wrangling/Project%203%20-%20Data%20Scientist%20Job%20Market%20in%20the%20U.S.)
 
+[Project 4 - Bot Detection](https://github.com/rttrif/Trifonov.portfolio.github.io/tree/master/1.%20Data%20Wrangling/Project%204%20-%20Bot%20Detection)
+
 
 
 
