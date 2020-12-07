@@ -15,4 +15,4 @@
 - Выводы
 - Сохранение результатов
 
-[Отчет по проекту](https://www.notion.so/Inca-Digital-f6a30f35599b49f090bacd39fe1854cb)
+[Результаты проекта (Отчет)](https://www.notion.so/Inca-Digital-f6a30f35599b49f090bacd39fe1854cb)
