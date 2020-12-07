@@ -31,6 +31,8 @@
 
 ### &#128294; Exploratory Data Analysis
 
+[Project 1 - Search for suspicious transactions](https://github.com/rttrif/Trifonov.portfolio.github.io/tree/master/2.%20Exploratory%20Data%20Analys/EDA/%5B0009%5D%20Project%202%20-%20Search%20for%20suspicious%20transactions)
+
 ### &#8986; EDA Time Series
 
 [Project 1 - Analysis of power quality readings](https://github.com/rttrif/Trifonov.portfolio.github.io/tree/master/2.%20Exploratory%20Data%20Analys/Time%20Series%20Analysis/Project%201%20-%20Analysis%20of%20power%20quality%20readings)
