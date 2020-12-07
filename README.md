@@ -50,7 +50,7 @@
 [Project 1 - Credit scoring](https://github.com/rttrif/Trifonov.portfolio.github.io/tree/master/4.%20Machine%20Learning/Project%201%20-%20Credit%20scoring)
 
 ## &#129504; 5. Deep Learning
-Проекты посвященные глубокому изучению
+Проекты посвященные глубокому обучению
 
 
 ## &#128220; 6. Data Storytelling
