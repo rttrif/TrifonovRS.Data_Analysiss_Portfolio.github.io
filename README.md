@@ -35,6 +35,8 @@
 
 [Project 2 - Задачи для Лаборатории функциональной нейрофизиологии](https://github.com/rttrif/Trifonov.portfolio.github.io/tree/master/2.%20Exploratory%20Data%20Analys/EDA/%5B0010%5D%20Project%201%20-%20%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9%20%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D1%84%D0%B8%D0%B7%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8)
 
+[[NEW!] Project 3 - SberMarket](https://github.com/rttrif/Trifonov.portfolio.github.io/tree/master/2.%20Exploratory%20Data%20Analys/EDA/%5B0011%5D%20Project%203%20-%20SberMarket)
+
 ### &#8986; EDA Time Series
 
 [Project 1 - Analysis of power quality readings](https://github.com/rttrif/Trifonov.portfolio.github.io/tree/master/2.%20Exploratory%20Data%20Analys/Time%20Series%20Analysis/Project%201%20-%20Analysis%20of%20power%20quality%20readings)
