@@ -25,18 +25,8 @@ This portfolio was created in the process of studying data analysis to illustrat
 ---
 ---
 
-[**Исследования организации рабочего процесса в Data Science**](https://www.notion.so/Data-Science-as-Process-e1616f288d2645fe9901341cff1c1b65)
+## &#129529; DATA WRANGLING
 
-[**Пространство мышления Data Science**](https://www.notion.so/DATA-SCIENCE-e46df8e6700b480bb80f7f6f2eec4be0)
-
-[**Набор собственных шалонов для целостного подхода к анализу данных и машинному обучению**](https://github.com/rttrif/-Template-/tree/master/Holistic%20approach)
-
-
-
-## &#129529; 1. Data Wrangling
-
-
-Проекты посвященные подготовке данных для анализа 
 
 [Project 1 - Immigration of Canada](https://github.com/rttrif/Trifonov.portfolio.github.io/tree/master/1.%20Data%20Wrangling/Project%201%20-%20Immigration%20of%20Canada)
 
@@ -49,8 +39,11 @@ This portfolio was created in the process of studying data analysis to illustrat
 [Project 5 - Depression](https://github.com/rttrif/Trifonov.portfolio.github.io/tree/master/1.%20Data%20Wrangling/Project%205%20-%20Depression)
 
 
-## &#128269; 2. Exploratory Data Analysis
-Проекты посвященные разведочному анализу данных 
+---
+---
+
+## &#128269; EXPLORATORY DATA ANALYSIS
+
 
 ### &#128294; Exploratory Data Analysis
 
@@ -67,14 +60,3 @@ This portfolio was created in the process of studying data analysis to illustrat
 [Project 2 - Analysis of power consumption](https://github.com/rttrif/Trifonov.portfolio.github.io/tree/master/2.%20Exploratory%20Data%20Analys/Time%20Series%20Analysis/Project%202%20-%20Analysis%20of%20power%20consumption) 
 
 
-## &#129302; 3. Machine Learning
-Проекты посвященные машинному обучению
-
-[Project 0 - Real Estate Price Prediction](https://github.com/rttrif/Libraries_Python-CoursGB/tree/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%BE%D0%B9-%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82---%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5-%D1%86%D0%B5%D0%BD-%D0%BD%D0%B0-%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C)
-
-[Project 1 - Credit scoring](https://github.com/rttrif/Trifonov.portfolio.github.io/tree/master/4.%20Machine%20Learning/Project%201%20-%20Credit%20scoring)
-
-
-#### Статьи в журналы  Scopus
-
-[Оценка мер центральной тенденции параметров контролируемых релейной защитой фидеров контактной сети](https://github.com/rttrif/Trifonov.portfolio.github.io/blob/master/6.%20Data%20Storytelling/%D0%9E%D1%86%D0%B5%D0%BD%D0%BA%D0%B0%20%D0%BC%D0%B5%D1%80%20%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9%20%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%86%D0%B8%D0%B8.pdf)
