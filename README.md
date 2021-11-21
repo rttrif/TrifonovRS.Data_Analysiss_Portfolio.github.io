@@ -1,6 +1,29 @@
-# &#128188; Data Science Portfolio
+# &#128188; DATA ANALYSIS PORTFOLIO
 
-Это портфолио представляет собой сборник проектов, которые я создал для анализа данных или для изучения алгоритмов машинного обучения. Каждая отдельная категория предназначена для отдельных видов и типов  проектов.
+
+This portfolio was created in the process of studying data analysis to illustrate my progress and skills.
+
+---
+## 👨‍🎓 MY CERTIFICATES IN THE FIELD OF DATA ANALYSIS
+[**[GeekBrains] Certificate of professional retraining under the program 
+"Geek University Faculty of Artificial Intelligence"**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Certificates/Trifonov%20Ruslan.pdf)
+
+- [[GeekBrains] Interactive Course Python basics](https://gb.ru/certificates/654781.en)
+- [[GeekBrains] Python for Data Science 2](https://gb.ru/certificates/986183.en)
+- [[GeekBrains] OOP in Python. Level 1. Part 2](https://gb.ru/certificates/660751.en)
+- [[GeekBrains] R language](https://gb.ru/certificates/689146.en)
+- [[GeekBrains] Fundamentals of relational databases. MySQL](https://gb.ru/certificates/698000.en)
+- [[GeekBrains] Maths introduction](https://gb.ru/certificates/703955.en)
+- [[GeekBrains] Python Libraries for Data Science: Numpy, Matplotlib, Scikit-learn](https://gb.ru/certificates/725821.en)
+- [[GeekBrains] Methods of collecting and processing data from the Internet](https://gb.ru/certificates/772018.en)
+- [[GeekBrains] Introduction into calculus](https://gb.ru/certificates/847225.en)
+- [[GeekBrains] Probability Theory and Mathematical Statistics](https://gb.ru/certificates/882944.en)
+- [[GeekBrains] Linear Algebra](https://gb.ru/certificates/907030.en)
+- [[GeekBrains] Algorithms for Data Science](https://gb.ru/certificates/949810.en)
+- 
+
+---
+---
 
 [**Исследования организации рабочего процесса в Data Science**](https://www.notion.so/Data-Science-as-Process-e1616f288d2645fe9901341cff1c1b65)
 
