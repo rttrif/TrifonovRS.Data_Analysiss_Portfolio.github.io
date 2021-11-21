@@ -20,7 +20,6 @@ This portfolio was created in the process of studying data analysis to illustrat
 - [[GeekBrains] Probability Theory and Mathematical Statistics](https://gb.ru/certificates/882944.en)
 - [[GeekBrains] Linear Algebra](https://gb.ru/certificates/907030.en)
 - [[GeekBrains] Algorithms for Data Science](https://gb.ru/certificates/949810.en)
-- 
 
 ---
 ---
