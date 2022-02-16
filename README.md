@@ -60,4 +60,5 @@ This portfolio was created in the process of studying data analysis to illustrat
 
 ---
 ---
-
+## 🐝  END-TO-END ANALYTICS PROJECT
+[**Project 11 - IMPRICE**]() 
