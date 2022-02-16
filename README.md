@@ -61,4 +61,4 @@ This portfolio was created in the process of studying data analysis to illustrat
 ---
 ---
 ## 🐝  END-TO-END ANALYTICS PROJECT
-[**Project 11 - IMPRICE**]() 
+[**Project 11 - IMPRICE**](https://github.com/rttrif/TrifonovRS.Data_Analysiss_Portfolio.github.io/tree/master/Machine%20Learning/Project%203%20-%20Imprice) 
